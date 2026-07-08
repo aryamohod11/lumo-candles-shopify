@@ -1,5 +1,6 @@
 # lumo-candles-shopify
 # Lumo Candles — Shopify Homepage
+A WEBSITE FOR LUMO CANDLES
 Intern assessment project. A premium handmade candle brand homepage 
 built on Shopify Dawn theme.
 
